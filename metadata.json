@@ -1,0 +1,6 @@
+{
+  "name": "Apex Drive",
+  "description": "High-fidelity 3D car driving simulation featuring realistic vehicle physics, 4-wheel suspension, ESC/ABS, dynamic camera, and precision telemetry HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

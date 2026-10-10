@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Apex Drive</string>
+    <string name="title_drive_sim">Apex Drive 3D</string>
+    <string name="mode_comfort">COMFORT</string>
+    <string name="mode_sport">SPORT</string>
+    <string name="mode_track">TRACK</string>
+    <string name="hud_kmh">KM/H</string>
+    <string name="hud_mph">MPH</string>
+    <string name="hud_gear">GEAR</string>
+    <string name="hud_rpm">RPM</string>
+    <string name="cam_chase">Chase</string>
+    <string name="cam_cockpit">Cockpit</string>
+    <string name="cam_hood">Hood</string>
+    <string name="cam_orbit">Free</string>
+</resources>
